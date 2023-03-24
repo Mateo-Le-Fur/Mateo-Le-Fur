@@ -4,6 +4,8 @@
 
 👩‍💻 I’m currently working on [buildConverse](https://github.com/Mateo-Le-Fur/buildConverse)
 
+🧠 I'm currently learning NestJS 
+
 ## 🛠 Skills
 <div align="center">
 <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"  style="margin: 0 5px"/>
