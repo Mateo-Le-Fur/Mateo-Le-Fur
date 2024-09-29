@@ -16,19 +16,6 @@
 <img alt="Socket.io" src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101"  style="margin: 0 5px"/>
 <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"  style="margin: 0 5px"/>
 </div>
-
-## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-
-## Contact Me
-
-📧 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/matéo-le-fur/) or via email at [mateo.le-fur@hotmail.com](mailto:mateo.le-fur@hotmail.com). I'm always open to discussing new projects or opportunities.
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Mateo-Le-Fur&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Mateo-Le-Fur&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mateo-Le-Fur&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 ---
 
 
